@@ -1,0 +1,101 @@
+music = {
+	name = "ds2009_dead_space_theme_wz"
+	file = "Dead Space Theme_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_cyanide_systems_offline_wz"
+	file = "Cyanide Systems Offline_wzogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_entering_zerog_wz"
+	file = "Entering ZeroG_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_plasma_cutters_are_your_friend_wz"
+	file = "Plasma Cutters Are Your Friend_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_i_left_my_heart_in_med_lab_3_wz"
+	file = "I Left My Heart In Med Lab 3_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_the_cost_of_living_is_on_the_rise_wz"
+	file = "The Cost Of Living Is On The Rise_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_the_leviathan_wz"
+	file = "The Leviathan_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_i've_got_you_devolving_under_my_skin_wz"
+	file = "I've Got You Devolving Under My Skin_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_manual_survival_mode_seven_wz"
+	file = "Manual Survival Mode Seven_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_nicole's_farewell_wz"
+	file = "Nicole's Farewell_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_do_not_vomit_do_not_shout_wz"
+	file = "Do Not Vomit Do Not Shout_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_escape_from_the_planet_of_the_red_marker_wz"
+	file = "Escape From The Planet Of The Red Marker_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_fly_me_to_the_aegis_seven_moon_wz"
+	file = "Fly Me To The Aegis Seven Moon_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_severed_limbs_are_hazardous_waste_wz"
+	file = "Severed Limbs Are Hazardous Waste_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_the_hive_mind_wz"
+	file = "The Hive Mind_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_the_necromorphs_attack_wz"
+	file = "The Necromorphs Attack_wz.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "ds2009_welcome_aboard_the_u.s.g._ishimura_wz"
+	file = "Welcome Aboard The U.S.G. Ishimura_wz.ogg"
+	volume = 0.8
+}

@@ -1,0 +1,67 @@
+song = {
+	name = "ds2009_dead_space_theme_wz"
+}
+
+song = {
+	name = "ds2009_cyanide_systems_offline_wz"
+}
+
+song = {
+	name = "ds2009_entering_zerog_wz"
+}
+
+song = {
+	name = "ds2009_plasma_cutters_are_your_friend_wz"
+}
+
+song = {
+	name = "ds2009_i_left_my_heart_in_med_lab_3_wz"
+}
+
+song = {
+	name = "ds2009_the_cost_of_living_is_on_the_rise_wz"
+}
+
+song = {
+	name = "ds2009_the_leviathan_wz"
+}
+
+song = {
+	name = "ds2009_i've_got_you_devolving_under_my_skin_wz"
+}
+
+song = {
+	name = "ds2009_manual_survival_mode_seven_wz"
+}
+
+song = {
+	name = "ds2009_nicole's_farewell_wz"
+}
+
+song = {
+	name = "ds2009_do_not_vomit_do_not_shout_wz"
+}
+
+song = {
+	name = "ds2009_escape_from_the_planet_of_the_red_marker_wz"
+}
+
+song = {
+	name = "ds2009_fly_me_to_the_aegis_seven_moon_wz"
+}
+
+song = {
+	name = "ds2009_severed_limbs_are_hazardous_waste_wz"
+}
+
+song = {
+	name = "ds2009_the_hive_mind_wz"
+}
+
+song = {
+	name = "ds2009_the_necromorphs_attack_wz"
+}
+
+song = {
+	name = "ds2009_welcome_aboard_the_u.s.g._ishimura_wz"
+}
